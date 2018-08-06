@@ -1,0 +1,22 @@
+section {
+	background-color: #99ffcc;
+	margin: 15px;
+	padding: 10px;
+}
+
+li {
+	width: 100%;
+	background-color: purple;
+}
+
+#header-container {
+	background-color: #ff80df;
+}
+
+/* Media queries */
+
+@media (min-width: 767px) {
+	.navbar-toggler {
+		display: none;
+	}
+}
